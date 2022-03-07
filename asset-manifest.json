@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/orac/static/css/main.5674f204.chunk.css",
+    "main.js": "/orac/static/js/main.7ac33078.chunk.js",
+    "main.js.map": "/orac/static/js/main.7ac33078.chunk.js.map",
+    "runtime-main.js": "/orac/static/js/runtime-main.f59910ec.js",
+    "runtime-main.js.map": "/orac/static/js/runtime-main.f59910ec.js.map",
+    "static/js/2.8218a670.chunk.js": "/orac/static/js/2.8218a670.chunk.js",
+    "static/js/2.8218a670.chunk.js.map": "/orac/static/js/2.8218a670.chunk.js.map",
+    "index.html": "/orac/index.html",
+    "precache-manifest.b983c30edb757e893a6f4341e62e79cf.js": "/orac/precache-manifest.b983c30edb757e893a6f4341e62e79cf.js",
+    "service-worker.js": "/orac/service-worker.js",
+    "static/css/main.5674f204.chunk.css.map": "/orac/static/css/main.5674f204.chunk.css.map",
+    "static/media/lower_ankle.png": "/orac/static/media/lower_ankle.8d6d9e4e.png",
+    "static/media/lower_foot.png": "/orac/static/media/lower_foot.250a1a4a.png",
+    "static/media/lower_hip.png": "/orac/static/media/lower_hip.85c76ff4.png",
+    "static/media/lower_knee.png": "/orac/static/media/lower_knee.69bf88e1.png",
+    "static/media/skeleton.png": "/orac/static/media/skeleton.ba789b2c.png",
+    "static/media/spine_cervical.png": "/orac/static/media/spine_cervical.97800b2d.png",
+    "static/media/spine_cervical_lumbar.png": "/orac/static/media/spine_cervical_lumbar.b3ae6d2b.png",
+    "static/media/spine_coccyx.png": "/orac/static/media/spine_coccyx.a1bb826f.png",
+    "static/media/spine_lumbar.png": "/orac/static/media/spine_lumbar.b0993884.png",
+    "static/media/spine_sacrum.png": "/orac/static/media/spine_sacrum.5376a874.png",
+    "static/media/spine_whole.png": "/orac/static/media/spine_whole.c77a2446.png",
+    "static/media/upper_elbow.png": "/orac/static/media/upper_elbow.d3b5532c.png",
+    "static/media/upper_finger.png": "/orac/static/media/upper_finger.060e5d13.png",
+    "static/media/upper_hand.png": "/orac/static/media/upper_hand.a96f874e.png",
+    "static/media/upper_shoulder.png": "/orac/static/media/upper_shoulder.777c0281.png",
+    "static/media/upper_thumb.png": "/orac/static/media/upper_thumb.2fe85513.png",
+    "static/media/upper_wrist.png": "/orac/static/media/upper_wrist.24376150.png"
+  }
+}
