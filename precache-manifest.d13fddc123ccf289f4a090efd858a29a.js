@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6fe101adcc9e492f5a9e5fd9b7232e3",
+    "revision": "c0997b27c38196ec3cc2f2fb6f548752",
     "url": "/orac/index.html"
   },
   {
-    "revision": "88cae345bcde48f9c248",
+    "revision": "c5383c7391b1158e00b6",
     "url": "/orac/static/css/main.0bafe7f3.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/orac/static/js/2.aa26bf65.chunk.js"
   },
   {
-    "revision": "88cae345bcde48f9c248",
-    "url": "/orac/static/js/main.203b368f.chunk.js"
+    "revision": "c5383c7391b1158e00b6",
+    "url": "/orac/static/js/main.bc9281df.chunk.js"
   },
   {
     "revision": "b5af0f77694b4fa8fe90",
