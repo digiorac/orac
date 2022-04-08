@@ -1,0 +1,78 @@
+.title {
+  margin-bottom: 0.1rem;
+  margin-top: 0;
+}
+
+.h1 {
+  margin-top: 0.25rem;
+  font-size: 1.8rem;
+}
+
+.main-button {
+  padding: 2px;
+  overflow: hidden;
+  width: 100%;
+  word-wrap: break-word;
+}
+
+.main-button-back {
+  padding: 2px;
+  overflow: hidden;
+  width: 100%;
+  word-wrap: break-word;
+  background-color: black;
+}
+
+.no-padding {
+  overflow: hidden;
+  padding: 0px;
+}
+
+.no-side-padding {
+  overflow: hidden;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.no-top-bottom-padding {
+  overflow: hidden;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.inner-paper {
+  background-color: aliceblue;
+  padding: 0px;
+  resize: horizontal;
+  overflow: hidden;
+  max-width: 100%;
+  min-width: 4rem;
+  display: block;
+}
+
+.inner-paper-back {
+  background-color: rgb(58, 154, 149);
+  padding: 0px;
+  resize: horizontal;
+  overflow: hidden;
+  max-width: 100%;
+  min-width: 4rem;
+  display: block;
+  color: white;
+}
+
+.inner-paper-finish {
+  background-color: rgb(58, 154, 63);
+  padding: 0px;
+  resize: horizontal;
+  overflow: hidden;
+  max-width: 100%;
+  min-width: 4rem;
+  display: block;
+  color: white;
+}
+
+.h4 {
+  font-size: 25px;
+  display: inline-block;
+}
